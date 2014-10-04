@@ -1,0 +1,16 @@
+D:\MyStudy\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\bin\Debug\SysProg_Kypcovou_CryptFile.exe
+D:\MyStudy\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\bin\Debug\SysProg_Kypcovou_CryptFile.pdb
+D:\MyStudy\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\ResolveAssemblyReference.cache
+D:\MyStudy\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.Properties.Resources.resources
+D:\MyStudy\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.csproj.GenerateResource.Cache
+D:\MyStudy\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.exe
+D:\MyStudy\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.pdb
+D:\MyStudy\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.mainForm.resources
+G:\MyStudy\4 Семместр\Сессия\Системное программирование\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.exe
+G:\MyStudy\4 Семместр\Сессия\Системное программирование\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.pdb
+G:\MyStudy\4 Семместр\Сессия\Системное программирование\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\bin\Debug\SysProg_Kypcovou_CryptFile.exe
+G:\MyStudy\4 Семместр\Сессия\Системное программирование\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\bin\Debug\SysProg_Kypcovou_CryptFile.pdb
+G:\MyStudy\4 Семместр\Сессия\Системное программирование\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\ResolveAssemblyReference.cache
+G:\MyStudy\4 Семместр\Сессия\Системное программирование\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.mainForm.resources
+G:\MyStudy\4 Семместр\Сессия\Системное программирование\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.Properties.Resources.resources
+G:\MyStudy\4 Семместр\Сессия\Системное программирование\Курсовой проект\SysProg_Kypcovou_CryptFile\SysProg_Kypcovou_CryptFile\obj\Debug\SysProg_Kypcovou_CryptFile.csproj.GenerateResource.Cache
